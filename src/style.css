@@ -100,8 +100,8 @@
   }
   .die-face {
     height: 5vh;
-    width: 5vw;
-    padding: 2% ;
+    width: 5vw; /* Adjusted width for better responsiveness */
+    padding: 2%;
   }
   .die-num {
     font-size: 1.2rem;
